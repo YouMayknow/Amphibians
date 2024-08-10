@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Amphibians App</string>
+    <string name="amphibians_Title">Amphibians</string>
+    <string name="amphibians_Details"> see i am just here thesing the ui not realling liking to call the amphibians fot the ui form the retrofit serevie </string>
 </resources>
